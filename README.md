@@ -21,11 +21,11 @@ At Lesson, we believe in breaking barriers to education. We aim to make learning
 
 Join our community of 50K+ students who are turning their dreams into reality. Dive into our popular courses today and take the first step towards achieving your personal and professional goals with Lesson.
 
-For more information, visit [Your Website Link].
+For more information, visit [Link](https://github.com/zmanhcong).
 
 ## Contact
 
-For support or inquiries, please contact us at [[ zmanhcong ](https://github.com/zmanhcong)].
+For support or inquiries, please contact us at [[ HERE ](https://github.com/zmanhcong)].
 
 ---
 
