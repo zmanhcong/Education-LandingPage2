@@ -19,6 +19,24 @@ html {
     box-sizing: border-box;
 }
 
+/* Remove default */
+a,
+button,
+input,
+textarea,
+select {
+    font-family: inherit;
+    font-size: inherit;
+    color: inherit;
+    -webkit-tap-highlight-color: transparent;
+}
+
+button {
+    outline: none;
+    border: none;
+    background: transparent;
+}
+
 a {
     text-decoration: none;
 }
@@ -39,6 +57,7 @@ li {
     padding: 0 15px;
 }
 
+/* common button */
 .btn {
     min-width: 144px;
     height: 50px;
@@ -55,8 +74,4 @@ li {
 
 .pointer {
     cursor: pointer;
-}
-
-button {
-    border: none;
 }
