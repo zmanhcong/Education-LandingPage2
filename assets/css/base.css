@@ -12,8 +12,10 @@
 
 html {
     font-family: "Poppins", sans-serif;
+    /* HACK to adjust 1rem = 1px */
     font-size: 62.5%;
     line-height: 1.6rem;
+    /* auto calculate to size the box */
     box-sizing: border-box;
 }
 
@@ -28,4 +30,28 @@ ul {
 
 li {
     padding: 0;
+}
+
+.content-size {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 15px;
+}
+
+.btn {
+    min-width: 144px;
+    height: 50px;
+    background-color: #171100;
+    color: #fff;
+    text-align: center;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px;
+    border-radius: 24.5px;
+}
+
+button {
+    border: none;
 }
