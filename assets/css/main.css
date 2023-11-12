@@ -378,7 +378,6 @@
 
 .courses_card-3 {
     max-width: 370px;
-    height: 467px;
     border: 1px solid #e2dfda;
     border-radius: 15px;
 }
@@ -428,8 +427,12 @@
     width: 740px;
     margin-right: 135px;
     margin: 0;
+    margin-right: 135px;
 }
 
+.user_comment--content {
+    margin-left: 90px;
+}
 /**********************/
 /* Testimonials Section */
 /**********************/
