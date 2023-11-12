@@ -33,7 +33,7 @@ li {
 }
 
 .content-size {
-    max-width: 1400px;
+    max-width: 1170px;
     margin-left: auto;
     margin-right: auto;
     padding: 0 15px;
@@ -50,6 +50,11 @@ li {
     font-weight: 600;
     line-height: 50px;
     border-radius: 24.5px;
+    cursor: pointer;
+}
+
+.pointer {
+    cursor: pointer;
 }
 
 button {
