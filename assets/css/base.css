@@ -6,8 +6,10 @@
     --text-color: #5f5b53;
 }
 
-* {
-    box-sizing: inherit;
+*,
+::before,
+::after {
+    box-sizing: border-box;
 }
 
 html {
